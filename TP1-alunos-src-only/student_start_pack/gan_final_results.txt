@@ -1,1 +1,0 @@
-Seed, FID, KID_Mean, KID_Std
